@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ngulinga/static/css/main.3084a45b.css",
+    "main.js": "/ngulinga/static/js/main.0e003d7a.js",
+    "static/media/profile2.jpeg": "/ngulinga/static/media/profile2.34426f53e35ca2d5258d.jpeg",
+    "static/media/project1.jpg": "/ngulinga/static/media/project1.3644747fc60fad5e4a9b.jpg",
+    "static/media/Happy_Ngulinga_NB.pdf": "/ngulinga/static/media/Happy_Ngulinga_NB.debcb183b96a1934fa16.pdf",
+    "static/media/project3.jpg": "/ngulinga/static/media/project3.a5ce2da9b8fdefdac724.jpg",
+    "static/media/project2.jpg": "/ngulinga/static/media/project2.3b30a2723610fb5f1c9d.jpg",
+    "index.html": "/ngulinga/index.html",
+    "main.3084a45b.css.map": "/ngulinga/static/css/main.3084a45b.css.map",
+    "main.0e003d7a.js.map": "/ngulinga/static/js/main.0e003d7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3084a45b.css",
+    "static/js/main.0e003d7a.js"
+  ]
+}
