@@ -1,0 +1,49 @@
+/* Footer Social Icons Specific Styles */
+.footer-social {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .footer-social a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    color: #ffffff;
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+  }
+  
+  .footer-social a:hover {
+    background-color: #3498db;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Specific icon colors on hover */
+  .footer-social a:nth-child(1):hover { /* GitHub */
+    background-color: #333;
+  }
+  .footer-social a:nth-child(2):hover { /* LinkedIn */
+    background-color: #0077b5;
+  }
+  .footer-social a:nth-child(3):hover { /* Twitter */
+    background-color: #1da1f2;
+  }
+  .footer-social a:nth-child(4):hover { /* CodePen */
+    background-color: #000;
+  }
+  .footer-social a:nth-child(5):hover { /* Dev.to */
+    background-color: #0a0a0a;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .footer-social {
+      justify-content: center;
+      width: 100%;
+    }
+  }
